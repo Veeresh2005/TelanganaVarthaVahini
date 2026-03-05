@@ -2,7 +2,7 @@ name: Telanaga Vartha Vahini
 
 on:
   schedule:
-    - cron: '30 18 * * *' # 18:30 UTC is 12:00 AM IST (Close to your 11:30 PM target)
+    - cron: '30 17 * * *' # 18:30 UTC is 12:00 AM IST (Close to your 11:30 PM target)
   workflow_dispatch: 
 
 jobs:
